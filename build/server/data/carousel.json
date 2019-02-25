@@ -1,0 +1,40 @@
+{
+    "resultCode": 200,
+    "message": "SUCCESS",
+    "data": {
+        "currentUser": [
+            {
+                "image": "http://lkhuploadimage.oss-cn-beijing.aliyuncs.com/product/60237103155302059.jpg",
+                "addTime": "2018-12-29 16:17:27",
+                "orderBy": 1,
+                "id": 7,
+                "userName": null,
+                "jumpPage": "http://www.xiangyuezhu.com/\t"
+            },
+            {
+                "image": "http://lkhuploadimage.oss-cn-beijing.aliyuncs.com/product/726746458762607616.jpg",
+                "addTime": "2018-12-29 16:16:14",
+                "orderBy": 2,
+                "id": 6,
+                "userName": null,
+                "jumpPage": "http://www.xiangyuezhu.com/"
+            },
+            {
+                "image": "https://lkhuploadimage.oss-cn-beijing.aliyuncs.com/banners/banner6.jpg",
+                "addTime": "2018-09-11 17:13:41",
+                "orderBy": 3,
+                "id": 5,
+                "userName": null,
+                "jumpPage": "http://www.xiangyuezhu.com/"
+            },
+            {
+                "image": "http://lkhuploadimage.oss-cn-beijing.aliyuncs.com/product/594311860658024783.jpg",
+                "addTime": "2018-12-29 16:17:52",
+                "orderBy": 4,
+                "id": 8,
+                "userName": null,
+                "jumpPage": "http://www.xiangyuezhu.com/"
+            }
+        ]
+    }
+}
